@@ -1,0 +1,4 @@
+/data filter=lfs diff=lfs merge=lfs -text
+data/ex-subs.csv filter=lfs diff=lfs merge=lfs -text
+data/exercises.csv filter=lfs diff=lfs merge=lfs -text
+data/students.csv filter=lfs diff=lfs merge=lfs -text
